@@ -1,1 +1,2 @@
-# ros-simple-c-
+# ros simple c
+> simple suscriber publisher 
